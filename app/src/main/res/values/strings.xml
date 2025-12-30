@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Facebook Search</string>
+    <string name="app_name">Friend Filter</string>
+    <string name="app_description">Filter and manage your Facebook friend requests</string>
 </resources>
